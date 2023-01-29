@@ -1,0 +1,12 @@
+For Image reference, do
+
+<img src="yourimage.filename">
+
+OR if its in a folder, before the your part add:
+
+thefoldertheimageisin/
+
+You can adjust an image by doing this:
+
+height = (height number here)
+width = (width number here)
